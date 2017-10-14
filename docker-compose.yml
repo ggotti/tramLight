@@ -1,0 +1,8 @@
+version: '2'
+services:
+  tramlights:
+    build: .
+    restart: always
+    environment:
+      - TZ=Australia/Sydney
+    network_mode: host

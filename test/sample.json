@@ -1,0 +1,62 @@
+[
+  {
+    "attributes": {
+      "diffgr:id": "ToReturn1",
+      "msdata:rowOrder": "0"
+    },
+    "InternalRouteNo": "72",
+    "RouteNo": "72",
+    "HeadboardRouteNo": "72",
+    "VehicleNo": "3538",
+    "Destination": "Camberwell",
+    "HasDisruption": "false",
+    "IsTTAvailable": "true",
+    "IsLowFloorTram": "true",
+    "AirConditioned": "true",
+    "DisplayAC": "false",
+    "HasSpecialEvent": "true",
+    "SpecialEventMessage": "A new timetable is now in place across the network. Check updated information at stop. Info: ptv.vic.gov.au/trams",
+    "PredictedArrivalDateTime": "2017-05-08T21:23:24+10:00",
+    "RequestDateTime": "2017-05-08T21:10:26.1463105+10:00"
+  },
+  {
+    "attributes": {
+      "diffgr:id": "ToReturn2",
+      "msdata:rowOrder": "1"
+    },
+    "InternalRouteNo": "72",
+    "RouteNo": "72",
+    "HeadboardRouteNo": "72",
+    "VehicleNo": "144",
+    "Destination": "Camberwell",
+    "HasDisruption": "false",
+    "IsTTAvailable": "true",
+    "IsLowFloorTram": "false",
+    "AirConditioned": "false",
+    "DisplayAC": "false",
+    "HasSpecialEvent": "true",
+    "SpecialEventMessage": "A new timetable is now in place across the network. Check updated information at stop. Info: ptv.vic.gov.au/trams",
+    "PredictedArrivalDateTime": "2017-05-08T21:41:00+10:00",
+    "RequestDateTime": "2017-05-08T21:10:26.1463105+10:00"
+  },
+  {
+    "attributes": {
+      "diffgr:id": "ToReturn3",
+      "msdata:rowOrder": "2"
+    },
+    "InternalRouteNo": "72",
+    "RouteNo": "72",
+    "HeadboardRouteNo": "72",
+    "VehicleNo": "121",
+    "Destination": "Camberwell",
+    "HasDisruption": "false",
+    "IsTTAvailable": "true",
+    "IsLowFloorTram": "false",
+    "AirConditioned": "false",
+    "DisplayAC": "false",
+    "HasSpecialEvent": "true",
+    "SpecialEventMessage": "A new timetable is now in place across the network. Check updated information at stop. Info: ptv.vic.gov.au/trams",
+    "PredictedArrivalDateTime": "2017-05-08T22:00:00+10:00",
+    "RequestDateTime": "2017-05-08T21:10:26.1463105+10:00"
+  }
+]

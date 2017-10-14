@@ -1,0 +1,16 @@
+{
+  "lifx": {
+    "label" : "Lamp"
+  },
+  "runner" : {
+    "runDurationInMinutes" : 30,
+    "frequencyInSeconds" : 20,
+    "startTimer": "00 40 7 * * 1-5"
+  },
+  "yarra-trams": {
+    "apiGUID": "2f58a118-8d3d-4564-b9a9-396e92191330",
+    "stopNo": 3120,
+    "routeNo": "64",
+    "lowFloor": "false"
+  }
+}
